@@ -1,0 +1,8 @@
+p {
+    background-color: blue;
+}
+
+p.text {
+    color: #fff;
+    padding: 10px;
+}
