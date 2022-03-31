@@ -6,11 +6,11 @@
 
     $soma += 1; //$soma fica com 10 
     $soma += $valor2; //$soma fica com 10+20=30
-    $soma *= $valor3; //$SOMA FICA COM 30*30 = 900
+    $soma *= $valor3; //$soma fica com 30*30 = 900
     $soma %= 100;
 
     $saudacao = "Bom ";
-    $saudacao .= "Dia "; // configura $saudcao para "Bom dia!"; como em $saudacao = $saudacao . "Dia!";
+    $saudacao .= "Dia "; // configura $saudacao para "Bom dia!"; como em $saudacao = $saudacao . "Dia!";
 
     echo $saudacao . "Hoje vai ter " . $soma . "% tristeza!";
 
