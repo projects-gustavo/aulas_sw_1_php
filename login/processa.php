@@ -23,6 +23,3 @@ if($usuario == etecmcm && $senha == 141){
         exit();
     }
 ?>
-
-</body>
-</html>
