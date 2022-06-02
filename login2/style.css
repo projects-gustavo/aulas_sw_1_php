@@ -1,0 +1,35 @@
+* {
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    background-color: #666666;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+}
+
+.input__style {
+    padding-top: 1%;
+}
+
+input {
+    background: #fff;
+    color: black;
+    font-size: 20px;
+    border-radius: 50px;
+}
+
+a {
+    background: black;
+    padding: 14px;
+    border-radius: 25px;
+}
+
+.input__class {
+    background: black;
+    color: #fff;
+}
