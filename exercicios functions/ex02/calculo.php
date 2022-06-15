@@ -1,5 +1,5 @@
 <?php
-    $num = $_POST['number'];
+    $num = $_POST['num'];
                 
     if(!empty($num)){
 
